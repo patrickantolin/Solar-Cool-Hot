@@ -7,7 +7,9 @@ Three methods are presented for this purpose:
 - BSS method
 
 These methods are explained in detail in the publication:
+
 "Decomposing the AIA 304 channel into its cool and hot components"
+
 Patrick Antolin, Frédéric Auchère, Ethan Winch, Elie Soubrié, Ramon Oliver
 
 Solar Physics, Volume 299, article number 94, (2024)
